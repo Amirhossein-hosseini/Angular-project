@@ -1,5 +1,5 @@
 
 *.txt
-my/
+!my/
 
 !work.txt
